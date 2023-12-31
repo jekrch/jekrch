@@ -1,4 +1,9 @@
-### Hi there 👋
+www.jacobkrch.com
+
+<!--
+- 🔭 I’m currently working on ...
+    www.eurovision-ranker.com
+    www.chord-buildr.com
 
 <!--
 **jekrch/jekrch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
