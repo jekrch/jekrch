@@ -1,4 +1,4 @@
-www.jacobkrch.com
+jacobkrch.com
 
 <!--
 - 🔭 I’m currently working on ...
