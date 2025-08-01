@@ -5,7 +5,7 @@
 <hr/>
 
 🎵 **[eurovision-ranker.com](https://eurovision-ranker.com)**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>How can I rank my favorite Eurovision contestants?</i>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Who were your top 10 fav Eurovision contestants from 2023?</i>
 
 🎸 **[chordbuildr.com](https://chordbuildr.com)**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Are you sure that's the song's chord progression?</i>
