@@ -1,21 +1,17 @@
-[jacobkrch.com](https://jacobkrch.com)
+### 🌐 [jacobkrch.com](https://jacobkrch.com)
 
-<!--
-- 🔭 I’m currently working on ...
-    www.eurovision-ranker.com
-    www.chord-buildr.com
+#### check out some of my public projects
 
-<!--
-**jekrch/jekrch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🎵 **[eurovision-ranker.com](https://eurovision-ranker.com)**  
+&nbsp;&nbsp;&nbsp;&nbsp;How can I rank my favorite Eurovision contestants?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎸 **[chord-buildr.com](https://chord-buildr.com)**  
+&nbsp;&nbsp;&nbsp;&nbsp;Are you sure that's the song's chord progression? Try this instead
+
+🌍 **[juxtaglobe.com](https://juxtaglobe.com)**  
+&nbsp;&nbsp;&nbsp;&nbsp;What's on the other side of the globe from me?
+
+🎲 **[zonr.jacobkrch.com](https://zonr.jacobkrch.com)**  
+&nbsp;&nbsp;&nbsp;&nbsp;I'm playing Carcassonne on the go, how do I keep score?
