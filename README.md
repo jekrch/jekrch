@@ -10,6 +10,9 @@
 * **[chordbuildr.com](https://chordbuildr.com)**  
 <i>Are you sure that's the song's chord progression?</i>
 
+* **[modal.chordbuildr.com](https://chordbuildr.com)**  
+<i>What Aeolian chords would work with our Bebop Minor tune?</i>
+
 * **[juxtaglobe.com](https://juxtaglobe.com)**  
 <i>What's on the other side of the globe from me?</i>
 
