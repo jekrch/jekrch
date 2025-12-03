@@ -13,6 +13,9 @@
 * **[modal.chordbuildr.com](https://modal.chordbuildr.com)**  
 <i>What Aeolian chords would work with our Bebop Minor tune?</i>
 
+* **[gbmeter.com](https://gbmeter.com)**  
+<i>How does my average nighttime energy usage compare between spring and summer?</i>
+
 * **[juxtaglobe.com](https://juxtaglobe.com)**  
 <i>What's on the other side of the globe from me?</i>
 
