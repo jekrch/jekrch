@@ -22,5 +22,8 @@
 * **[zonr.jacobkrch.com](https://zonr.jacobkrch.com)**  
 <i>I'm playing Carcassonne on the go, how do I keep score?</i>
 
+* **[snaps.jacobkrch.com](https://snaps.jacobkrch.com)**  
+<i>Seen any great comic art lately?</i>
+
 * **[criterionclub.org](https://criterionclub.org)**  
 <i>Wait, you're in a film club?</i>
